@@ -19,6 +19,12 @@
   --text-color: #00ffee;
 }
 
+/* Animate Css*/
+
+#transition{
+  transition-delay: 200ms;
+}
+
 /* Default CSS */
 * {
   margin: 0;

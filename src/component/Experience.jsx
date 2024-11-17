@@ -39,7 +39,7 @@ const Experience = () => {
         <Row xs={1} lg={2}>
           <Col>
             <Row lg={3} xs={3} className="ms-lg-5 p-sm-3">
-              <Col>
+              <Col id="transition">
                 <Container className="shadow" style={style2}>
                   <img className="img-fluid p-2 mt-1" src={Skill1} alt="HTML" />
                 </Container>
@@ -146,7 +146,7 @@ const Experience = () => {
             </Row>
           </Col>
           <Col>
-            <Card style={style1} className="mb-3 text-white border-end-0">
+            <Card style={style1} id="animate" className="mb-3 text-white border-end-0">
               <Card.Body>
                 <h4 className="ms-3 text-start">
                   Java SailPoint Developer, IDM 360 Analytics
