@@ -146,18 +146,24 @@ const Experience = () => {
             </Row>
           </Col>
           <Col>
-            <Card style={style1} id="animate" className="mb-3 text-white border-end-0">
+            <Card
+              style={style1}
+              id="animate"
+              className="mb-3 text-white border-end-0"
+            >
               <Card.Body>
                 <h4 className="ms-3 text-start">
                   Java SailPoint Developer, IDM 360 Analytics
                 </h4>
                 <p className="ms-3 text-start">Sep-2024 to Present</p>
                 <p className="ms-3 text-start">
-                  I maintained and upgraded Zoti Bot, a feature-rich WhatsApp
-                  automated chatbot with functionalities such as chatbot flow
-                  and scheduler. A major task was upgrading it from JDK 8 to JDK
-                  17, utilizing Spring 3.X.X, Spring MVC, Spring JPA, and Spring
-                  Security with OAuth2.0 for enhanced security and performance.
+                  As a Java SailPoint developer in the IAM domain, I bring solid
+                  knowledge of rules, workflows, lifecycle events, XML
+                  debugging, and application onboarding. I contribute to
+                  developing and maintaining identity governance solutions that
+                  optimize user provisioning and ensure compliance. My focus is
+                  on enhancing security and efficiency in identity management
+                  while continuously expanding my expertise.
                 </p>
               </Card.Body>
             </Card>
